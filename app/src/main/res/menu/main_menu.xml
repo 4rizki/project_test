@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="UPLOAD"
+        android:id="@+id/upload"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_launcher_round"/>
+
+    <item android:title="Menu Item" android:id="@+id/menuItem" />
+    <item android:title="LOGOUT" android:id="@+id/logout" />
+
+</menu>
